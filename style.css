@@ -81,6 +81,18 @@ color: white;
     display: inline-block;
     border-radius: 5px;
  }
+ .rounded-circle{
+   width: 20px;
+   height: 20px;
+   background-color: #fffe04;
+ }
+ .rounded-white{
+width: 20px;
+height: 20px;
+border: 2px solid white;
+border-radius: 50px;
+
+ }
  /* banner section end */
 
 
@@ -130,3 +142,23 @@ color: white;
    padding: 15px;
 }
 /* a few words section end */
+
+/* carousel section */
+.carousel{
+   margin-top: 70px;
+   text-align: center;
+}
+.carousel-title{
+   font-weight: 700;
+}
+.carousel-img{
+   width: 90px;
+}
+.description{
+   padding-left: 200px;
+   padding-right: 200px;
+}
+.icon{
+   background-color: black;
+   border-radius: 7px;
+}
