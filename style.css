@@ -1,3 +1,8 @@
+body{
+   font-family: 'Lato', sans-serif;
+   font-family: 'Open Sans', sans-serif;
+}
+
 /* navbar section */
 .line{
    border: 1px solid black;
