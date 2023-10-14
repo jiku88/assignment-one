@@ -217,6 +217,11 @@ border-radius: 50px;
 footer {
    background-color: #252525;
 }
+.footer-img{
+   height: 80px;
+   width: 80px;
+   border-radius: 8px;
+}
 
 .little-fotter {
    background-color: #252525;
