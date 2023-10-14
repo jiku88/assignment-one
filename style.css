@@ -163,3 +163,130 @@ border-radius: 50px;
    background-color: black;
    border-radius: 7px;
 }
+/* carousel section end */
+
+/* call back section */
+.contact {
+   background-color: #90973b;
+   text-align: center;
+}
+
+.form {
+   display: flex;
+   justify-content: center;
+   gap: 30px;
+}
+
+.call-back {
+   color: white;
+}
+
+.left {
+   width: 400px;
+}
+
+.right {
+   width: 400px;
+}
+
+.input {
+   width: 80%;
+   border-radius: 15px;
+   border: none;
+   padding-left: 12px;
+   padding-top: 5px;
+   padding-bottom: 5px;
+}
+
+.sent-btn {
+   border-radius: 15px;
+   padding-left: 15px;
+   padding-right: 15px;
+   margin-left: 35px;
+   background-color: red;
+   border: none;
+   color: white;
+}
+
+.btn-div {
+   display: flex;
+}
+/* call back section end */
+
+ /* footer section */
+footer {
+   background-color: #252525;
+}
+
+.little-fotter {
+   background-color: #252525;
+   color: white;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+.footer-title {
+   margin-left: 100px;
+   width: 50%;
+}
+
+.footer-input {
+   width: 50%;
+   display: flex;
+}
+
+.sub-btn {
+   border-radius: 15px;
+   border: none;
+   padding-left: 12px;
+   padding-right: 12px;
+   padding-top: 5px;
+   padding-bottom: 5px;
+   background-color: #fffe04;
+}
+
+.f-input {
+   position: relative;
+   width: 600px;
+   border-radius: 15px;
+   border: none;
+   padding-left: 12px;
+   padding-top: 6px;
+   padding-bottom: 6px;
+}
+
+.footer-description-main-div {
+   background-color: #252525;
+   color: white;
+   width: 70%;
+   gap: 30px;
+   margin-top: 22px;
+}
+
+.footer-description-div {
+   width: 35%;
+}
+
+.imgs img {
+   background-color: white;
+}
+
+.imgs h6 {
+   margin-top: 15px;
+}
+
+.imgs {
+   display: flex;
+   align-items: center;
+}
+
+
+.last-sectioin {
+   color: white;
+   text-align: center;
+   background-color: #90973b;
+   padding-top: 15px;
+   padding-bottom: 1px;
+}
+/* footer section end */
