@@ -154,7 +154,8 @@ border-radius: 50px;
 .carousel-img{
    width: 90px;
 }
-.description{
+.carousel-description{
+
    padding-left: 200px;
    padding-right: 200px;
 }
