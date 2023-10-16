@@ -187,11 +187,11 @@ border-radius: 50px;
 }
 
 .left {
-   width: 400px;
+   width: 500px;
 }
 
 .right {
-   width: 400px;
+   width: 500px;
 }
 
 .input {
@@ -203,11 +203,11 @@ border-radius: 50px;
    padding-bottom: 5px;
 }
 
-.sent-btn {
+.send-btn {
    border-radius: 15px;
    padding-left: 15px;
    padding-right: 15px;
-   margin-left: 35px;
+   margin-left: 50px;
    background-color: red;
    border: none;
    color: white;
@@ -292,7 +292,7 @@ footer {
 }
 
 
-.last-sectioin {
+.last-div {
    color: white;
    text-align: center;
    background-color: #90973b;
